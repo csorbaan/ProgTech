@@ -1,0 +1,19 @@
+C:\Users\llllllllllllllll\Documents\Visual Studio 2015\Projects\ProgTech\ProgTechTests\bin\Debug\ProgTechTests.dll
+C:\Users\llllllllllllllll\Documents\Visual Studio 2015\Projects\ProgTech\ProgTechTests\bin\Debug\ProgTechTests.pdb
+C:\Users\llllllllllllllll\Documents\Visual Studio 2015\Projects\ProgTech\ProgTechTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\llllllllllllllll\Documents\Visual Studio 2015\Projects\ProgTech\ProgTechTests\bin\Debug\ProgTech.exe
+C:\Users\llllllllllllllll\Documents\Visual Studio 2015\Projects\ProgTech\ProgTechTests\bin\Debug\ProgTech.pdb
+C:\Users\llllllllllllllll\Documents\Visual Studio 2015\Projects\ProgTech\ProgTechTests\obj\Debug\ProgTechTests.csprojResolveAssemblyReference.cache
+C:\Users\llllllllllllllll\Documents\Visual Studio 2015\Projects\ProgTech\ProgTechTests\obj\Debug\ProgTechTests.dll
+C:\Users\llllllllllllllll\Documents\Visual Studio 2015\Projects\ProgTech\ProgTechTests\obj\Debug\ProgTechTests.pdb
+E:\Bead\ProgTech\ProgTechTests\bin\Debug\ProgTechTests.dll
+E:\Bead\ProgTech\ProgTechTests\bin\Debug\ProgTechTests.pdb
+E:\Bead\ProgTech\ProgTechTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Bead\ProgTech\ProgTechTests\bin\Debug\ProgTech.exe
+E:\Bead\ProgTech\ProgTechTests\bin\Debug\ProgTech.pdb
+E:\Bead\ProgTech\ProgTechTests\bin\Debug\ProgTech.exe.config
+E:\Bead\ProgTech\ProgTechTests\obj\Debug\ProgTechTests.csprojAssemblyReference.cache
+E:\Bead\ProgTech\ProgTechTests\obj\Debug\ProgTechTests.csproj.CoreCompileInputs.cache
+E:\Bead\ProgTech\ProgTechTests\obj\Debug\ProgTechTests.csproj.CopyComplete
+E:\Bead\ProgTech\ProgTechTests\obj\Debug\ProgTechTests.dll
+E:\Bead\ProgTech\ProgTechTests\obj\Debug\ProgTechTests.pdb

@@ -1,0 +1,16 @@
+c:\users\llllllllllllllll\documents\visual studio 2015\Projects\ProgTech\ProgTech\bin\Debug\ProgTech.exe.config
+c:\users\llllllllllllllll\documents\visual studio 2015\Projects\ProgTech\ProgTech\bin\Debug\ProgTech.exe
+c:\users\llllllllllllllll\documents\visual studio 2015\Projects\ProgTech\ProgTech\bin\Debug\ProgTech.pdb
+c:\users\llllllllllllllll\documents\visual studio 2015\Projects\ProgTech\ProgTech\obj\Debug\ProgTech.csprojResolveAssemblyReference.cache
+c:\users\llllllllllllllll\documents\visual studio 2015\Projects\ProgTech\ProgTech\obj\Debug\ProgTech.exe
+c:\users\llllllllllllllll\documents\visual studio 2015\Projects\ProgTech\ProgTech\obj\Debug\ProgTech.pdb
+c:\users\llllllllllllllll\documents\visual studio 2015\Projects\ProgTech\ProgTech\obj\Debug\ProgTech.csproj.ResolveComReference.cache
+c:\users\llllllllllllllll\documents\visual studio 2015\Projects\ProgTech\ProgTech\bin\Debug\Pizza\Pizza.xlsx
+E:\Bead\ProgTech\ProgTech\bin\Debug\ProgTech.exe.config
+E:\Bead\ProgTech\ProgTech\bin\Debug\ProgTech.exe
+E:\Bead\ProgTech\ProgTech\bin\Debug\ProgTech.pdb
+E:\Bead\ProgTech\ProgTech\obj\Debug\ProgTech.csprojAssemblyReference.cache
+E:\Bead\ProgTech\ProgTech\obj\Debug\ProgTech.csproj.ResolveComReference.cache
+E:\Bead\ProgTech\ProgTech\obj\Debug\ProgTech.csproj.CoreCompileInputs.cache
+E:\Bead\ProgTech\ProgTech\obj\Debug\ProgTech.exe
+E:\Bead\ProgTech\ProgTech\obj\Debug\ProgTech.pdb
